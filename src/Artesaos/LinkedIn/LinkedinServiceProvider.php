@@ -8,9 +8,9 @@
 
 namespace Artesaos\LinkedIn;
 
-use Http\Adapter\Guzzle6\Client;
+use Http\Adapter\Guzzle7\Client;
 use Illuminate\Support\ServiceProvider;
-use Http\Adapter\Guzzle6\Client as HttpClient;
+use Http\Adapter\Guzzle7\Client as HttpClient;
 use Http\Message\MessageFactory\GuzzleMessageFactory as HttpGuzzleMessageFactory;
 
 class LinkedinServiceProvider extends ServiceProvider
