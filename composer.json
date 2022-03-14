@@ -21,7 +21,7 @@
         "illuminate/contracts": "~5.0|^6.0|^7.0|^8.0|^9.0",
         "illuminate/http": "~5.0|^6.0|^7.0|^8.0|^9.0",
         "illuminate/support": "~5.0|^6.0|^7.0|^8.0|^9.0",
-        "happyr/linkedin-api-client": "~1.0",
+        "webxid/linkedin-api-client": "~1.0",
         "php-http/guzzle7-adapter": "dev-master",
         "php-http/curl-client": "^2.2",
         "guzzlehttp/psr7": "^1.4|^1.8.3|^2.1",
